@@ -8,7 +8,6 @@ There is such a powerful feeling that comes from creating something out of nothi
 You could reach me on [twitter](https://twitter.com/kooparse).
 
 </br>
-</br>
 
 <p align="center">
  <img src="https://media.giphy.com/media/7bEpr3NIPNY0E/giphy.gif" />
