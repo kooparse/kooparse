@@ -5,7 +5,7 @@ I'm an independant software engineer.
 I love coding for mostly one reason: It gives me a limitless power to create whatever I have in my head. <br>
 There is such a powerful feeling that comes from creating something out of nothing.
         
-You could reach me on [twitter](https://twitter.com/kooparse).
+You could reach me on [twitter](https://twitter.com/kooparse) and [mastodon](https://mastodon.social/@kooparse).
 
 </br>
 
